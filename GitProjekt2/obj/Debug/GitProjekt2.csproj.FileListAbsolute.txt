@@ -1,0 +1,7 @@
+C:\Users\aska\source\repos\GitProjekt2\GitProjekt2\bin\Debug\GitProjekt2.exe.config
+C:\Users\aska\source\repos\GitProjekt2\GitProjekt2\bin\Debug\GitProjekt2.exe
+C:\Users\aska\source\repos\GitProjekt2\GitProjekt2\bin\Debug\GitProjekt2.pdb
+C:\Users\aska\source\repos\GitProjekt2\GitProjekt2\obj\Debug\GitProjekt2.csprojAssemblyReference.cache
+C:\Users\aska\source\repos\GitProjekt2\GitProjekt2\obj\Debug\GitProjekt2.csproj.CoreCompileInputs.cache
+C:\Users\aska\source\repos\GitProjekt2\GitProjekt2\obj\Debug\GitProjekt2.exe
+C:\Users\aska\source\repos\GitProjekt2\GitProjekt2\obj\Debug\GitProjekt2.pdb
