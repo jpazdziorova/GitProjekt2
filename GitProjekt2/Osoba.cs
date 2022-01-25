@@ -12,10 +12,10 @@ namespace GitProjekt2
         public string Prijmeni { get; set; }
         public DateTime DatumNarozeni { get; set; }
 
-        public string Vek()
+        public int Vek()
         {
             DateTime dnes = DateTime.Now;
-            return (dnes - DatumNarozeni).ToString();
+            return (int)(dnes - DatumNarozeni).TotalDays / 365;
         }
     }
 }

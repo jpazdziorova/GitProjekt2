@@ -11,9 +11,8 @@ namespace GitProjekt2
         static void Main(string[] args)
         {
             Osoba osoba = new Osoba();
+            osoba.DatumNarozeni = DateTime.Parse("01.03.2000");
             Console.WriteLine(osoba.DatumNarozeni);
-            Console.WriteLine("Zadej datum narození:");
-            DateTime datum = DateTime.Parse(Console.ReadLine());
             Console.WriteLine(osoba.Vek());
 
             Console.ReadKey();
